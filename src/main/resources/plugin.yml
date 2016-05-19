@@ -1,0 +1,4 @@
+name: ProximityChat
+main: org.inventivetalent.proximitychat.ProximityChat
+author: inventivetalent
+version: ${project.version}

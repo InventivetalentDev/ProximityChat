@@ -1,0 +1,10 @@
+# Whether to distort the original message when players are further away
+distort: true
+# Alphabet used for distortion
+alphabet: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklnmopqrstuvwxyz"
+
+radius:
+  # Maximum radius to receive messages
+  max: 128
+  # Minimum radius to start distortion
+  min: 16
